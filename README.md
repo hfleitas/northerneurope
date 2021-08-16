@@ -1,0 +1,2 @@
+# northerneurope
+az function python
